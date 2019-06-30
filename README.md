@@ -6,8 +6,6 @@ Json
 #Json – javascript object notation. 
 # We are storage data any server with api that’s call in need   json format.  Json format is easy to quickly data fatches.  It’s necessary for development working. 
 
-Islamrumon707@gmail.com
-Mehedifcl907@gmail.com
 
 # json data are 2 type like  
 1.	Json object 
